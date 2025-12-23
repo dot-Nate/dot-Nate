@@ -8,28 +8,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=dot-Nate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dot-Nate&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dot-Nate&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
