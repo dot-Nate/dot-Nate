@@ -30,16 +30,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/dot-Nate/dot-Nate/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
