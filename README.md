@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="872" height="226" alt="dotnate" src="https://github.com/user-attachments/assets/089811c4-eeb4-44ed-b4a5-eb2ff40377e2" />
+  <img width="600" alt="dotnate" src="https://github.com/user-attachments/assets/089811c4-eeb4-44ed-b4a5-eb2ff40377e2" />
   
   ### 💡 *"The only way to do great work is to love what you do."* - Steve Jobs
 
