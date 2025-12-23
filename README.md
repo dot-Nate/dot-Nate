@@ -1,8 +1,9 @@
 <div align="center">
+  <img width="872" height="226" alt="dotnate" src="https://github.com/user-attachments/assets/089811c4-eeb4-44ed-b4a5-eb2ff40377e2" />
   
-# 👋 dotNate
+  ### 💡 *"The only way to do great work is to love what you do."* - Steve Jobs
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=9000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,22 +17,6 @@
 
 </div>
 
----
-
-## 💻 Most Used Languages
 
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dot-Nate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 *"The only way to do great work is to love what you do."* - Steve Jobs
-
-![Profile Views](https://komarev.com/ghpvc/?username=dot-Nate&color=blueviolet&style=flat-square&label=Profile+Views)
-
 </div>
